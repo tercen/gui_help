@@ -1,0 +1,8 @@
+{"createdata.import.gather": {
+        "please select factors to make data table long":"making a table long, allows for easier manipulation of the data",
+        "variable name":"the new factor name of the gathered factors ",
+        "value name":"the new factor name of the gathered values",
+        "selection pattern":"using regular expression select a list of factors to gather",
+        "all":"select all factors, factors may subsequently be deselected individually"
+    }
+}
