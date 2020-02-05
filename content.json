@@ -1,8 +1,28 @@
-{"createdata.import.gather": {
-        "please select factors to make data table long":"making a table long, allows for easier manipulation of the data",
-        "variable name":"the new factor name of the gathered factors ",
-        "value name":"the new factor name of the gathered values",
-        "selection pattern":"using regular expression select a list of factors to gather",
-        "all":"select all factors, factors may subsequently be deselected individually"
-    }
-}
+[
+  {
+    "kind": "ContentHelper",
+    "id": "createdata.import.gather.description",
+    "content": "making a table long, allows for easier manipulation of the data"
+  },
+  {
+    "kind": "ContentHelper",
+    "id": "createdata.import.gather.varname",
+    "content": "the new factor name of the gathered factors"
+  },
+  {
+    "kind": "ContentHelper",
+    "id": "createdata.import.gather.valname",
+    "content": "the new factor name of the gathered values"
+  },
+  {
+    "kind": "ContentHelper",
+    "id": "createdata.import.gather.pattern",
+    "content": "using regular expression select a list of factors to gather"
+  },
+  {
+    "kind": "ContentHelper",
+    "id": "createdata.import.gather.all",
+    "content":
+        "select all factors, factors may subsequently be deselected individually"
+  }
+]
