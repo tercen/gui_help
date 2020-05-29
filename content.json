@@ -1,6 +1,11 @@
 [
   {
     "kind": "ContentHelper",
+    "id": "createdata.import.select.encoding",
+    "content": "what is encoding, go to url"
+  },
+  {
+    "kind": "ContentHelper",
     "id": "createdata.import.gather.description",
     "content": "making a table long, allows for easier manipulation of the data"
   },
